@@ -1,8 +1,10 @@
 # WebTimer
 
-This script takes input a time, and openrandom argument (to randomly open a url), or openbyurl argument (to open a specified url) and a url to open at given time.
+This script takes input a time, and --openrandom argument (to randomly open a URL), or --openbyurl argument (to open a specified URL) and a URL with --url argument to open at given time.
 
 --help argument can be used to see all arguments and there description.
+
+'links.txt' file contains the URLs used to be selected randomly with --openrandom argument. Links can be added randomly to this file.
 
 ## Handling "WebDriverException":
 
